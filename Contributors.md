@@ -4626,3 +4626,4 @@ git stat
 - [bigtoblerones] (https://github.com/bigtoblerones)
 - [ Uma Kommula] (https://github.com/Uma-129/first-contributions.git) Excited to be a contributer.
 - [Artem Zapara](https://github.com/ArtemZapara)
+- [Nick Osta] (https://github.com/mykost/)
